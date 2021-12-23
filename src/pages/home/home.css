@@ -1,0 +1,11 @@
+.homeContainer {
+  display: flex;
+  width: 100%;
+}
+
+.darkMode {
+  display: flex;
+  width: 100%;
+  background-color: #121212;
+  color: white;
+}
